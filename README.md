@@ -256,7 +256,7 @@ The final output is a trajectory visualization showing:
 
 ## Author
 
-Krish Agarwal
+Parth Agarwal
 
 B.Tech Computer Science, Artificial Intelligence and Machine Learning
 UPES, Dehradun
